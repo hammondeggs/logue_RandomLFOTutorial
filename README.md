@@ -10,6 +10,7 @@ I've been having a ton of fun creating these plugins, and if you like stuff like
 This can be done here :  [Donate!](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MSTCVLXMG7Z5J&source=url)
 
 
+Note, you will also find a writeup (and possibly more information) at [my main website](http://hammondeggsmusic.ca/blognotes/note2.html)
 
 
 
